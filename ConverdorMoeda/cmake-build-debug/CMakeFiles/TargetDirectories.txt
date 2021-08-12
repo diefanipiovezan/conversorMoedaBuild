@@ -1,0 +1,3 @@
+C:/Users/zille/CLionProjects/ConverdorMoeda/cmake-build-debug/CMakeFiles/ConverdorMoeda.dir
+C:/Users/zille/CLionProjects/ConverdorMoeda/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zille/CLionProjects/ConverdorMoeda/cmake-build-debug/CMakeFiles/rebuild_cache.dir
